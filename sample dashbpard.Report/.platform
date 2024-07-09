@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "sample dashbpard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a8b36f5e-18d8-492f-b1a7-c1e05ef59588"
+  }
+}
